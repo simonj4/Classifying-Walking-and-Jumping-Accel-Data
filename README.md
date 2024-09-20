@@ -1,0 +1,1 @@
+# Classifying-Walking-and-Jumping-Accel-Data
