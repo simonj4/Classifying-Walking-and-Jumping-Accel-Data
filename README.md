@@ -16,7 +16,7 @@ This project aimed to create a desktop application that, given a CSV  file with 
 ## Project Components
 
 ### 1. Data Collection
-Data was collected via the mobile app PhyPphox. This was chosen because it did not require any physical technology that the team members did not already have and because the data could be saved as a CSV. Data was collected multiple times in different ways for both the walking and jumping data,
+Data was collected via the mobile app PhyPphox. This was chosen because it did not require any physical technology that the team members did not already have and because the data could be saved as a CSV. Data was collected multiple times in different ways for both the walking and jumping data.
 
 ### 2. Data Storing
 The data started as many CSV files labeled as either walking or jumping. Before the data was stored it was manipulated in several ways.
